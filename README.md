@@ -1,1 +1,1 @@
-Contiguous memory allocation technique
+Contiguous memory allocation implementation to avoid fragmentation
